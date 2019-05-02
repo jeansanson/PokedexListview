@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/aluno/AndroidStudioProjects/PokedexListview/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/aluno/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b3eb164e563f1b2a97595b9615ca80ff/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
